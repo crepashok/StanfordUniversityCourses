@@ -109,6 +109,8 @@
 		5F3CA6CE1C723F2D006FAB20 /* Dropit */ = {
 			isa = PBXGroup;
 			children = (
+				5F5EB3FC1C73863E00A6AEF8 /* BezierPathView.h */,
+				5F5EB3FD1C73863E00A6AEF8 /* BezierPathView.m */,
 				5F3CA7051C724837006FAB20 /* DropitBehavior.h */,
 				5F3CA7061C724837006FAB20 /* DropitBehavior.m */,
 				5F3CA6D51C723F2D006FAB20 /* ViewController.h */,
@@ -116,8 +118,6 @@
 				5F3CA6D81C723F2E006FAB20 /* Main.storyboard */,
 				5F3CA6E01C723F2E006FAB20 /* LaunchScreen.storyboard */,
 				5F3CA6CF1C723F2D006FAB20 /* Supporting Files */,
-				5F5EB3FC1C73863E00A6AEF8 /* BezierPathView.h */,
-				5F5EB3FD1C73863E00A6AEF8 /* BezierPathView.m */,
 			);
 			path = Dropit;
 			sourceTree = "<group>";

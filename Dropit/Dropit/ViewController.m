@@ -129,9 +129,7 @@ static const CGSize DROP_SIZE = { 72, 72 };
         self.droppingView = nil;
         
         [self.animator addBehavior:self.attachement];
-        
     }
-    
 }
 
 
@@ -236,8 +234,8 @@ static const CGSize DROP_SIZE = { 72, 72 };
     }
     
     return NO;
-    
 }
+
 
 
 - (void)animateRemovingDrops:(NSArray *)dropsToRemove {
